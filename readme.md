@@ -6,7 +6,7 @@ A simple multi-user password manager with:
 - Secure password hashing
 - Login/logout with session management
 - Each user has their own password vault
-- SQLCIPHER database for encrypted and persistent storage
+- SQLLite3 database for persistent storage
 - Native desktop window via [pywebview](https://pywebview.flowrl.com/)
 - Ready for packaging as a standalone app with PyInstaller
 
